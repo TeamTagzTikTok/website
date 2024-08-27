@@ -62,7 +62,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background-image: url('cloudy-background.jpg');
+    background-image: url('https://via.placeholder.com/1600x600.png?text=Cloudy+Background');
     background-size: cover;
     background-position: center;
     padding: 100px 0;
